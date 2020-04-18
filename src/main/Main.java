@@ -1,4 +1,4 @@
-package com.company;
+package main;
 
 import org.apache.poi.xwpf.model.XWPFHeaderFooterPolicy;
 import org.apache.poi.xwpf.usermodel.*;

@@ -1,4 +1,4 @@
-package com.company;
+package main;
 
 import javax.xml.namespace.QName;
 import javax.xml.stream.XMLEventReader;
